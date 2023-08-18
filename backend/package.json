@@ -4,7 +4,7 @@
   "description": "This is a demo project for MDEV1004 - ICE 9 - in the Summer 2023 semester at Georgian",
   "author": "Khushi Shukla",
   "engines": {
-    "node": "20.2.0",
+    "node": "20.3.0",
     "npm": "9.6.6",
     "yarn": "1.22.19"
   },
